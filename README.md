@@ -2,7 +2,7 @@
 Technolgies Used: 
 <ul>
   <li>HTML5</li>
-  <li>CSS</li>
+  <li>CSS3</li>
   <li>Bootstrap</li>
   <li>Angular JS</li>
   </ul>
@@ -10,6 +10,7 @@ Technolgies Used:
 You can view information about all the books, characters and houses that are there in ICE AND FIRE Series.
 It gives you Detailed description about each book, character and houses - 
 It also lets you search like 
+
 <ul>
   <li>Search any book by its name or publishers name</li>
   <li>Search any Character by its name or culture</li>
