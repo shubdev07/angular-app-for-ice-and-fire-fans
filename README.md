@@ -10,7 +10,7 @@ Technolgies Used:
 You can view information about all the books, characters and houses that are there in ICE AND FIRE Series.
 It gives you Detailed description about each book, character and houses - 
 It also lets you search like 
-
+<br/>
 <ul>
   <li>Search any book by its name or publishers name</li>
   <li>Search any Character by its name or culture</li>
