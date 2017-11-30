@@ -8,7 +8,7 @@ Technolgies Used:
   </ul>
 <h3>Each view has been styled with beautiful animations thus increasing the UI and UX</h3>
 You can view information about all the books, characters and houses that are there in ICE AND FIRE Series.
-It gives you Detailed description about each book, character and houses - 
+It gives you detailed description about each book, character and houses - 
 It also lets you search like 
 <br/>
 <ul>
