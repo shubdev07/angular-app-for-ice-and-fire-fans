@@ -20,8 +20,9 @@
             <span ng-show="bookController.books[count].authors[0] !==''">
 
                 <span class="heading-tertiary ">author(s): </span>
-            <ol ng-repeat="author in bookController.books[count].authors ">
+            <ol><span ng-repeat="author in bookController.books[count].authors "> 
                 <li>{{author}}</li>
+                </span>
             </ol>
 
             </span>
