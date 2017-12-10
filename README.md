@@ -17,5 +17,14 @@ It also lets you search like
   <li>Search any House by its name or region </li>
  </ul>
 
-<h2> All Data are collected from <a href="https://anapioficeandfire.com/" target="_blank"> An API of ICE and FIRE </a>
+<h2> All Data are collected from <a href="https://anapioficeandfire.com/" target="_blank"> An API of ICE and FIRE </a> </h2>
+
+<h3> To run the project: </h3>
+<ol>
+  <li> Install Node js in the computer </li>
+  <li> Run the command npm install -g live-server </li>
+  <li> Head over to the project directory </li>
+  <li> Run the command live-server </li>
+ </ol>
+
   
